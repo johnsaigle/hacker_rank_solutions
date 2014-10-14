@@ -7,7 +7,7 @@ Problems + Solutions
 --------------------
 
 * [Bus Problem](https://www.hackerrank.com/challenges/bus-station) -- bus_solution.py
-* [Land Elevation](http://www.careercup.com/question?id=15380670), an interview problem used by [Palantir](palantir.com) -- practice_script.py
+* [Land Elevation](http://www.careercup.com/question?id=15380670), an interview problem used by [Palantir](https://www.palantir.com/) -- practice_script.py
 * Anagrams, a(nother) sample problem from Palantir -- anagrams.py
     - No description, but essentially: taking two strings as input, determine whether they are [anagrams](http://en.wikipedia.org/wiki/Anagram).
 * [Make it Anagram](https://www.hackerrank.com/challenges/make-it-anagram) -- make_it_anagram.py
