@@ -15,6 +15,7 @@ Problems + Solutions
     - a modification on the anagram problem
 * **Ruby**
   + [Service Lane](https://www.hackerrank.com/challenges/service-lane) -- service_lane.rb
+  + [Love Letter](https://www.hackerrank.com/challenges/the-love-letter-mystery) -- love_letter.rb
 * **Haskell**  -- haskell_junk.hs (contains all challenges)
-    - [List Length](https://www.hackerrank.com/challenges/fp-list-length)
-    - [Update List](https://www.hackerrank.com/challenges/fp-update-list)
+  - [List Length](https://www.hackerrank.com/challenges/fp-list-length)
+  - [Update List](https://www.hackerrank.com/challenges/fp-update-list)
