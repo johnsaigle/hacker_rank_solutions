@@ -12,6 +12,6 @@ Problems + Solutions
     - No description, but essentially: taking two strings as input, determine whether they are [anagrams](http://en.wikipedia.org/wiki/Anagram).
 * [Make it Anagram](https://www.hackerrank.com/challenges/make-it-anagram) -- make_it_anagram.py
     - a modification on the anagram problem
-
-
-
+* Haskell Solutions -- haskell_junk.hs (contains all challenges)
+    - [List Length](https://www.hackerrank.com/challenges/fp-list-length)
+    - [Update List](https://www.hackerrank.com/challenges/fp-update-list)
