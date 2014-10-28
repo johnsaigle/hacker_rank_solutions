@@ -16,6 +16,7 @@ Problems + Solutions
 * **Ruby**
   + [Service Lane](https://www.hackerrank.com/challenges/service-lane) -- service_lane.rb
   + [Love Letter](https://www.hackerrank.com/challenges/the-love-letter-mystery) -- love_letter.rb
+  + [Counting Sort](https://www.hackerrank.com/challenges/countingsort1) -- counting_sort.rb
 * **Haskell**  -- haskell_junk.hs (contains all challenges)
   - [List Length](https://www.hackerrank.com/challenges/fp-list-length)
   - [Update List](https://www.hackerrank.com/challenges/fp-update-list)
