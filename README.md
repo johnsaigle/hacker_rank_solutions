@@ -14,6 +14,7 @@ Problems + Solutions
   + [Make it Anagram](https://www.hackerrank.com/challenges/make-it-anagram) -- make_it_anagram.py
     - a modification on the anagram problem
   + [Quick Sort 1](https://www.hackerrank.com/challenges/quicksort1) -- quicksort.py
+  + (Yet another)[Anagram](https://www.hackerrank.com/challenges/anagram) -- anagrams(again).py
 * **Ruby**
   + [Service Lane](https://www.hackerrank.com/challenges/service-lane) -- service_lane.rb
   + [Love Letter](https://www.hackerrank.com/challenges/the-love-letter-mystery) -- love_letter.rb
