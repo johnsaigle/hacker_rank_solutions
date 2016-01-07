@@ -1,7 +1,7 @@
 Hacker Rank Solutions
 =====================
 
-The files in this repo are solutions or solutions-in-progress for [Hacker Rank](www.hackerrank.com) (and a few select other sources). Stored here for easy-sharing as well as bragging rights.
+The files in this repo are solutions or solutions-in-progress for [Hacker Rank](https://www.hackerrank.com) (and a few select other sources). Stored here for easy-sharing as well as bragging rights.
 
 Problems + Solutions
 --------------------
